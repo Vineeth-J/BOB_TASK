@@ -37,7 +37,7 @@
 ## User booking
 ![Screenshot (59)](https://github.com/Vineeth-J/BOB_TASK/assets/75825994/257bc629-20bb-46d2-b280-76f14677b640)
 
-## User booking history
+## User booking history ( delete icon can be used to delete the booking)
 ![Screenshot (58)](https://github.com/Vineeth-J/BOB_TASK/assets/75825994/328d99a2-f463-4a9e-9546-2b6848dc2c52)
 
 
