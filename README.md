@@ -8,6 +8,8 @@
     - Adding Movies from admin account
     - Booking movies from user account
     - Booking history of individual user
+    - Bookings can be deleted
+    - Adding movies history
     - Trending movies list in homepage
     - Authentication use JWT.
     - TECH stacks used - React,css,react-redux,express,node,mongoDB.
